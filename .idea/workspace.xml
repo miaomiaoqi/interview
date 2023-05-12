@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3804537-9979-4a61-8c1b-5f4f9c531d21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/single.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue/Exam4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8.0_171",
-    "last_opened_file_path": "/Users/miaoqi/Documents/study/language/java/interview/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton",
+    "last_opened_file_path": "/Users/miaoqi/Documents/study/language/java/interview/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,6 +74,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init" />
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton" />
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java" />
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer" />
@@ -160,7 +155,7 @@
       <workItem from="1683823972373" duration="290000" />
       <workItem from="1683824280889" duration="586000" />
       <workItem from="1683825015359" duration="70000" />
-      <workItem from="1683829120890" duration="2799000" />
+      <workItem from="1683829120890" duration="4424000" />
     </task>
     <servers />
   </component>
