@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3804537-9979-4a61-8c1b-5f4f9c531d21" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/atguigu-interview02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview03/src/main/java/com/atguigu/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview03/src/test/java/com/atguigu/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/~$点登录的实现.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/atguigu-interview03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview03/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview04/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +172,7 @@
       <workItem from="1683823972373" duration="290000" />
       <workItem from="1683824280889" duration="586000" />
       <workItem from="1683825015359" duration="70000" />
-      <workItem from="1683829120890" duration="8968000" />
+      <workItem from="1683829120890" duration="10364000" />
     </task>
     <servers />
   </component>
