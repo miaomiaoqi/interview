@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3804537-9979-4a61-8c1b-5f4f9c531d21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/atguigu-interview02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview03/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/target/classes/com/atguigu/interview/variable/Exam5.class" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/target/classes/com/atguigu/interview/variable/Exam5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview03/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview04/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8.0_171",
-    "last_opened_file_path": "/Users/miaoqi/Documents/study/language/java/interview/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable",
+    "last_opened_file_path": "/Users/miaoqi/Documents/study/language/java/interview/atguigu-interview01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,11 +74,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atguigu-interview01" />
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable" />
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue" />
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init" />
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton" />
-      <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Exam5">
@@ -171,7 +171,7 @@
       <workItem from="1683823972373" duration="290000" />
       <workItem from="1683824280889" duration="586000" />
       <workItem from="1683825015359" duration="70000" />
-      <workItem from="1683829120890" duration="8373000" />
+      <workItem from="1683829120890" duration="8968000" />
     </task>
     <servers />
   </component>
