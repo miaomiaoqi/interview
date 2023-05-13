@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="javase" />
+        <module name="atguigu-interview03" />
+        <module name="atguigu-interview02" />
+        <module name="atguigu-interview04" />
       </profile>
     </annotationProcessing>
   </component>

@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3804537-9979-4a61-8c1b-5f4f9c531d21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/step/TestStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/step/TestStep2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable/Exam5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable/不同变量的内存图.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue/Exam4.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue/Exam4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/target/classes/com/atguigu/interview/offer/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/target/classes/com/atguigu/interview/offer/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview03/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/target/classes/com/atguigu/interview/variable/Exam5.class" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/target/classes/com/atguigu/interview/variable/Exam5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +171,7 @@
       <workItem from="1683823972373" duration="290000" />
       <workItem from="1683824280889" duration="586000" />
       <workItem from="1683825015359" duration="70000" />
-      <workItem from="1683829120890" duration="7355000" />
+      <workItem from="1683829120890" duration="8373000" />
     </task>
     <servers />
   </component>
