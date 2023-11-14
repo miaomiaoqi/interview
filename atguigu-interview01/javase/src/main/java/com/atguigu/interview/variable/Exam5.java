@@ -42,9 +42,9 @@ package com.atguigu.interview.variable;
  */
 public class Exam5 {
 
-    static int s;//成员变量，类变量
-    int i;//成员变量，实例变量
-    int j;//成员变量，实例变量
+    static int s; // 成员变量，类变量
+    int i; //成员变量，实例变量
+    int j; // 成员变量，实例变量
 
     {
         int i = 1;//非静态代码块中的局部变量 i

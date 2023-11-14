@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3804537-9979-4a61-8c1b-5f4f9c531d21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/atguigu-interview03/src/main/java/com/atguigu/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atguigu-interview03/src/test/java/com/atguigu/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/~$点登录的实现.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable/Exam5.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable/Exam5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/atguigu-interview03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview03/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview03/src/main/java/com/atguigu/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview03/src/test/java/com/atguigu/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,24 +56,24 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8.0_171",
-    "last_opened_file_path": "/Users/miaoqi/Documents/study/language/java/interview/atguigu-interview01",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8.0_171&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/miaoqi/Documents/git/miaomiaoqi.github.io/_posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/atguigu-interview01" />
@@ -172,7 +173,10 @@
       <workItem from="1683823972373" duration="290000" />
       <workItem from="1683824280889" duration="586000" />
       <workItem from="1683825015359" duration="70000" />
-      <workItem from="1683829120890" duration="10364000" />
+      <workItem from="1683829120890" duration="11048000" />
+      <workItem from="1692116271905" duration="2021000" />
+      <workItem from="1694510989859" duration="847000" />
+      <workItem from="1699941228614" duration="1962000" />
     </task>
     <servers />
   </component>
