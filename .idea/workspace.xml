@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3804537-9979-4a61-8c1b-5f4f9c531d21" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer/Exam1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue/Exam4.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue/Exam4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton6.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/step/TestStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/step/TestStep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable/Exam5.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable/Exam5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview03/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview03/src/main/java/com/atguigu/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview03/src/test/java/com/atguigu/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/target/classes/com/atguigu/interview/offer/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +90,7 @@
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exam5">
+  <component name="RunManager" selected="Application.Exam1">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -104,13 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.interview.variable.Exam5" />
+    <configuration name="Exam1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.interview.offer.Exam1" />
       <module name="javase" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.interview.variable.*" />
+          <option name="PATTERN" value="com.atguigu.interview.offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,13 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.interview.offer.Test" />
+    <configuration name="Exam5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.interview.variable.Exam5" />
       <module name="javase" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.interview.offer.*" />
+          <option name="PATTERN" value="com.atguigu.interview.variable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,8 +163,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exam1" />
         <item itemvalue="Application.Exam5" />
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -176,7 +183,7 @@
       <workItem from="1683829120890" duration="11048000" />
       <workItem from="1692116271905" duration="2021000" />
       <workItem from="1694510989859" duration="847000" />
-      <workItem from="1699941228614" duration="1962000" />
+      <workItem from="1699941228614" duration="2473000" />
     </task>
     <servers />
   </component>
