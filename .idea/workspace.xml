@@ -5,18 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3804537-9979-4a61-8c1b-5f4f9c531d21" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer/Exam1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue/Exam4.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue/Exam4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton6.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/step/TestStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/step/TestStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable/Exam5.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable/Exam5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/target/classes/com/atguigu/interview/offer/Test.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview02/gc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview02/gc/src/main/java/com/atguigu/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview02/gc/src/main/java/com/atguigu/juc/gc/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview02/gc/src/test/java/com/atguigu/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview02/gc/src/test/java/com/atguigu/juc/gc/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview02/juc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview02/juc/src/main/java/com/atguigu/juc/volatiles/VolatileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atguigu-interview02/juc/src/test/java/com/atguigu/juc/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/init/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/init/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/offer/Exam1.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/offer/Exam1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue/Exam4.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/passvalue/Exam4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue/方法的参数传递机制.png" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/passvalue/方法的参数传递机制.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/singleton/Singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/singleton/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/singleton/Singleton3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/singleton/Singleton4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/singleton/Singleton5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton/Singleton6.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/singleton/Singleton6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/step/TestStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/step/TestStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/step/TestStep2.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/step/TestStep2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable/Exam5.java" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/variable/Exam5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable/不同变量的内存图.png" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/juc/interview/variable/不同变量的内存图.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atguigu-interview02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atguigu-interview02/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,31 +75,32 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8.0_171&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/miaoqi/Documents/git/miaomiaoqi.github.io/_posts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8.0_171",
+    "last_opened_file_path": "/Users/miaoqi/Documents/study/language/java/interview/atguigu-interview02/gc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atguigu-interview02/gc" />
       <recent name="$PROJECT_DIR$/atguigu-interview01" />
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/variable" />
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/passvalue" />
       <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/init" />
-      <recent name="$PROJECT_DIR$/atguigu-interview01/javase/src/main/java/com/atguigu/interview/singleton" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Exam1">
@@ -183,7 +196,7 @@
       <workItem from="1683829120890" duration="11048000" />
       <workItem from="1692116271905" duration="2021000" />
       <workItem from="1694510989859" duration="847000" />
-      <workItem from="1699941228614" duration="2473000" />
+      <workItem from="1699941228614" duration="11258000" />
     </task>
     <servers />
   </component>

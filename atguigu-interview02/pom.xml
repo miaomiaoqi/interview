@@ -9,8 +9,12 @@
 
   <name>atguigu-interview02</name>
   <url>http://maven.apache.org</url>
+    <modules>
+        <module>juc</module>
+        <module>gc</module>
+    </modules>
 
-  <properties>
+    <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
